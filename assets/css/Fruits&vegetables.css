@@ -791,28 +791,28 @@ button:hover {
 }
 
 .fruits {
-  background-image: url("./assets/images/fruits.png");
+  background-image: url("../images/fruits.png");
 }
 .vegetables {
-  background-image: url("./assets/images/vegetables.png");
+  background-image: url("../images/vegetables.png");
 }
 .bakers {
-  background-image: url("./assets/images/bakers.png");
+  background-image: url("../images/bakers.png");
 }
 .juices {
-  background-image: url("./assets/images/juices.png");
+  background-image: url("../images/juices.png");
 }
 .cake {
-  background-image: url("./assets/images/cake.png");
+  background-image: url("../images/cake.png");
 }
 .smooties {
-  background-image: url("./assets/images/smooties.png");
+  background-image: url("../images/smooties.png");
 }
 .eggs {
-  background-image: url("./assets/images/eggs.png");
+  background-image: url("../images/eggs.png");
 }
 .noodles {
-  background-image: url("./assets/images/noodles.png");
+  background-image: url("../images/noodles.png");
 }
 
 @media (max-width: 768px) {
