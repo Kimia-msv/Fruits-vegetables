@@ -377,15 +377,13 @@ button:hover {
 
 .mainBannerBoxLeft {
   background:
-    url(../images/strawberry.png) center / cover
-      no-repeat,
+    url(../images/strawberry.png) center / cover no-repeat,
     rgba(0, 0, 0, 0.464);
 }
 
 .mainBannerBoxRight {
   background:
-    url(../images/orangee.png) center / cover
-      no-repeat,
+    url(../images/orangee.png) center / cover no-repeat,
     rgba(0, 0, 0, 0.464);
 }
 
@@ -441,7 +439,6 @@ button:hover {
   padding: 0 8rem;
   color: #0a490a;
   text-align: center;
-  /* background-color: yellowgreen; */
 }
 
 .blogTitle {
@@ -791,28 +788,28 @@ button:hover {
 }
 
 .fruits {
-  background-image: url("../images/fruits.png");
+  background-image: url(../images/fruits.png);
 }
 .vegetables {
-  background-image: url("../images/vegetables.png");
+  background-image: url(../images/vegetables.png);
 }
 .bakers {
-  background-image: url("../images/bakers.png");
+  background-image: url(../images/bakers.png);
 }
 .juices {
-  background-image: url("../images/juices.png");
+  background-image: url(../images/juices.png);
 }
 .cake {
-  background-image: url("../images/cake.png");
+  background-image: url(../images/cake.png);
 }
 .smooties {
-  background-image: url("../images/smooties.png");
+  background-image: url(../images/smooties.png);
 }
 .eggs {
-  background-image: url("../images/eggs.png");
+  background-image: url(../images/eggs.png);
 }
 .noodles {
-  background-image: url("../images/noodles.png");
+  background-image: url(../images/noodles.png);
 }
 
 @media (max-width: 768px) {
