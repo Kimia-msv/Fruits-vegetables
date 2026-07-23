@@ -377,14 +377,14 @@ button:hover {
 
 .mainBannerBoxLeft {
   background:
-    url(./assets/images/strawberry.png) center / cover
+    url(../images/strawberry.png) center / cover
       no-repeat,
     rgba(0, 0, 0, 0.464);
 }
 
 .mainBannerBoxRight {
   background:
-    url(./assets/images/orangee.png) center / cover
+    url(../images/orangee.png) center / cover
       no-repeat,
     rgba(0, 0, 0, 0.464);
 }
@@ -410,7 +410,6 @@ button:hover {
 }
 
 .comment {
-  /* background-color: #ffc107; */
   width: 35%;
   border: 1px solid #0a490a;
   border-radius: 0.5rem;
